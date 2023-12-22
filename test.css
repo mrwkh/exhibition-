@@ -1,0 +1,7 @@
+.gallery  :hover{
+transform: translateZ(50px);
+}
+div :hover{
+   transform: translateZ(50px);
+ 
+}
